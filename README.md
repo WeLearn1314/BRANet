@@ -45,3 +45,8 @@ https://github.com/csjunxu/MCWNNM_ICCV2017
 The real-world test dataset "Nam" you can download here (Selected in the paper):
 
 https://github.com/GuoShi28/CBDNet/tree/master/testsets/Nam_patches
+
+# Deraining Datasets
+The dataset "Rain100H" and "Rain100L" you can download here:
+
+https://www.icst.pku.edu.cn/struct/Projects/joint_rain_removal.html
